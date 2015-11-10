@@ -5,7 +5,8 @@ var {
   ScrollView,
   StyleSheet,
   Text,
-  TouchableOpacity
+  TouchableOpacity,
+  AppRegistry,
 } = React;
 
 var NUM_ITEMS = 20;
